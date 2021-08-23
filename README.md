@@ -10,7 +10,6 @@
 -- Additional test code: `tests/src`
 -- Classes set up: `tests/setup.js`
 -- Command Line launch: `./node_modules/.bin/cucumber-js --require setup.js --require tests`
-- Test data clean up: Not supported. An “After” hook should be maybe added.
 
 
 ## Test Execution
