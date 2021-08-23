@@ -5,7 +5,7 @@
 - BDD/TDD Framework: Cucumber. Using feature files in order to decouple test definition from test code
 - Tests code: Javascript / node.js
 - Cucumber:
--- Features directory: `features`. No tag is being used for this small test plan.
+-- Features directory: `features`.
 -- Additional test code: `tests/src`
 -- Classes set up: `tests/setup.js`
 -- Command Line launch: `./node_modules/.bin/cucumber-js --require setup.js --require tests`
