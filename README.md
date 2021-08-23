@@ -6,7 +6,6 @@
 - Tests code: Javascript / node.js
 - Cucumber:
 -- Features directory: `features`. No tag is being used for this small test plan.
--- Steps Definition directory: `tests`. Files are splited by resource plus a common one. Dedicated by resource files are near empty, just because these is only the critical/smoke test plan.
 -- Additional test code: `tests/src`
 -- Classes set up: `tests/setup.js`
 -- Command Line launch: `./node_modules/.bin/cucumber-js --require setup.js --require tests`
