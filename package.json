@@ -1,0 +1,19 @@
+{
+  "name": "gorest-automation-API",
+  "version": "1.0.0",
+  "description": "API Test Automation with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js --require setup.js --require tests"
+  },
+  "author": "vitor-meneses",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0",
+    "axios": "^0.21.0",
+    "cucumber-junit": "^1.7.1",
+    "dotenv": "^10.0.0",
+    "expect": "^26.6.2",
+    "randexp": "^0.5.3"
+  }
+}

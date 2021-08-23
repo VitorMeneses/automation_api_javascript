@@ -1,0 +1,8 @@
+.idea
+.vscode
+*.log
+*.log.*
+node_modules
+reports/*
+hiptest-publisher.conf
+.DS_Store
