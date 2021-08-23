@@ -16,10 +16,6 @@
 ## Test Execution
 
 1. Generate your access token: https://gorest.co.in/access-token
-2. Create a new environment variable with it: `export API_ACCESS_TOKEN=<access token>`
-3. Launch test plan: `npm test`
-
-1. Generate your access token: https://gorest.co.in/access-token
 2. Enter your token in the .env file in the API_ACCESS_TOKEN
 3. Run `npm install`
 4. Run `npm install dotenv --save`
